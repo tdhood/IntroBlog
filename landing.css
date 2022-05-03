@@ -1,0 +1,22 @@
+*{
+    background-color:black;
+    color: whitesmoke;
+}
+#navPanel {
+    margin-top: 100px;
+    text-align: center;
+}
+#title {
+    font-family: 'My Soul', cursive;
+}
+#navlist {
+    font-family: 'Shadows Into Light', cursive;
+    float: right;
+    cursor: pointer;
+    
+}
+li {
+    font-size: larger;
+    font-family: 'Shadows Into Light', cursive;
+    display: inline;
+}
