@@ -12,6 +12,10 @@
     border-radius: 50%;
 }
 
+#pets img {
+    border-radius: 40%;
+}
+
 #paragraph {
     text-align: center;
 }
