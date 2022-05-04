@@ -6,17 +6,20 @@
     margin-top: 100px;
     text-align: center;
 }
+#navPanel img {
+    border-radius: 50%;
+}
 #title {
     font-family: 'My Soul', cursive;
 }
-#navlist {
-    font-family: 'Shadows Into Light', cursive;
-    float: right;
-    cursor: pointer;
-    
-}
+
 li {
     font-size: larger;
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Roboto Mono', monospace;
     display: inline;
+}
+
+a {
+    font-family: 'Roboto Mono', monospace;
+    width: 100px;
 }
